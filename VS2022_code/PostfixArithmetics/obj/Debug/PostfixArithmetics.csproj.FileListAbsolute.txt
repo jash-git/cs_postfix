@@ -1,0 +1,8 @@
+C:\Users\devel\Desktop\PostfixArithmetics-master\PostfixArithmetics\obj\Debug\PostfixArithmetics.csproj.AssemblyReference.cache
+C:\Users\devel\Desktop\PostfixArithmetics-master\PostfixArithmetics\obj\Debug\PostfixArithmetics.csproj.SuggestedBindingRedirects.cache
+C:\Users\devel\Desktop\PostfixArithmetics-master\PostfixArithmetics\obj\Debug\PostfixArithmetics.csproj.CoreCompileInputs.cache
+C:\Users\devel\Desktop\PostfixArithmetics-master\PostfixArithmetics\bin\Debug\PostfixArithmetics.exe.config
+C:\Users\devel\Desktop\PostfixArithmetics-master\PostfixArithmetics\bin\Debug\PostfixArithmetics.exe
+C:\Users\devel\Desktop\PostfixArithmetics-master\PostfixArithmetics\bin\Debug\PostfixArithmetics.pdb
+C:\Users\devel\Desktop\PostfixArithmetics-master\PostfixArithmetics\obj\Debug\PostfixArithmetics.exe
+C:\Users\devel\Desktop\PostfixArithmetics-master\PostfixArithmetics\obj\Debug\PostfixArithmetics.pdb
